@@ -10,4 +10,4 @@ function ImageList({images}){
     return <div className='image-list'>{renderedImages}</div>;
 }
 
-export default ImageList;l
+export default ImageList;
